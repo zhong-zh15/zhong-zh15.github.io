@@ -1,4 +1,4 @@
-![55f670c8a4ff0c76b17dc02d72075ca](https://github.com/zhong-zh15/zhong-zh15.github.io/assets/34024582/16cf11fa-1382-4d5f-9ba0-a908e35575a2)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
