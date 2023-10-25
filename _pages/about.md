@@ -21,5 +21,4 @@ Some of the interesting projects I've been a part of include:
 
 You can find my CV here: [Zhong Zhang's Curriculum Vitae](../assets/CV_20231023.pdf).
 
-
 ![](../images/WhenIwasaChild.png)
