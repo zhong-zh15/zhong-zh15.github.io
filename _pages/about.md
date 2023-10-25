@@ -10,6 +10,14 @@ redirect_from:
 
 I am a Ph.D. candidate in the [School of Aerospace Engineering](https://www.hy.tsinghua.edu.cn/hyen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), deeply interested in the confluence of Astrodynamics and artificial intelligence. My primary research revolves around trajectory optimization, optimal control of spacecraft, and the scheduling of autonomous space systems. It's the intersection of these domains—leveraging heuristic algorithms and machine learning techniques—that I find especially intriguing, evident in its applications to challenges such as space debris removal and asteroid exploration.
 
+Up to now, I have published many papers in top journals such as Journal of Guidance, Control, and Dynamics and IEEE Transactions on Aerospace and Electronic Systems. And I led a team to win the [11th edition of the Global Trajectory Optimization Competition (GTOC 11)](https://sophia.estec.esa.int/gtoc_portal/?page_id=782) in 2021.
+
+Among the notable projects I've undertaken are:
+1. Optimal strategies for large-scale space mission design via heuristic algorithms.
+2. Data-driven methods for improved spacecraft trajectory optimization.
+3. Robust and fast neural policy for spacecraft guidance.
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
