@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-08-15-Multi-Trajectory Combination for Multiple Ground Target Observation by Maneuvering On-Orbit Satellites-7
 excerpt: 'Compared with launching new satellites, it is an economic scheme to use on-orbit satellites to maneuver to meet users' particular needs for Earth observation. This paper studies the mission design method of on-orbit satellite maneuver for observing large-scale ground targets within a given duration. This paper divides the original large-scale sequence optimization problem into two small-scale subproblems that are easy to optimize: short-sequence trajectory generation and multi-trajectory combination optimization. The multi-trajectory combination framework, including database generation, multi-trajectory combination selection, trajectory patching, and trajectory keeping, is adopted to optimize the observation sequence and design the satellite's trajectory. In two specific scenarios, the fuel-optimal scenario and accurate revisit observation scenario, the proposed framework shows competitive optimization performance compared with existing tree search algorithms. In addition, this paper provides a known optimal result for the 11th China Trajectory Optimization Competition problem.'
 date: 2023-08-15
-venue: 'Aerospace'
+venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10218327'
 citation: 'Nan Zhang, Zhong Zhang, Yifei Jiao and Hexi Baoyin, "Multi-Trajectory Combination for Multiple Ground Target Observation by Maneuvering On-Orbit Satellites," in IEEE Transactions on Aerospace and Electronic Systems, 2023. (Early Access)'
 ---
