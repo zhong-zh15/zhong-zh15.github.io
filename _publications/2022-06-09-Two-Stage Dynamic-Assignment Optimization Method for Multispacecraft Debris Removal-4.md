@@ -1,0 +1,15 @@
+---
+title: "Two-Stage Dynamic-Assignment Optimization Method for Multispacecraft Debris Removal"
+collection: publications
+permalink: /publication/2022-06-09-Two-Stage Dynamic-Assignment Optimization Method for Multispacecraft Debris Removal-4
+excerpt: 'The multi-spacecraft debris removal missions can be considered as a specific variant of the time-dependent multiple traveling salesman problem. It is challenging to determine the debris sequences and corresponding rendezvous epochs. This paper presents a two-stage dynamic assignment framework to deal with this problem. Firstly, generate the mission databases which store the debris sequences that can exist in the same mission. Based on the mission databases, the first stage adopts the genetic algorithm to pre-distribute all given targets to different spacecrafts and Timeline Club Optimization to optimize each single spacecraft mission. The near-optimal solutions can be obtained at stage 1. At stage 2, considering reassigning some debris pieces to other appropriate spacecrafts, a hill-climbing-like algorithm provides a further local optimization on the previous near-optimal solutions. Simulation results show that the proposed framework offers better performance than the previous studies in a typical multi-spacecraft debris removal scenario.'
+date: 2022-06-09
+venue: 'Journal of Guidance, Control, and Dynamic'
+paperurl: 'https://arc.aiaa.org/doi/full/10.2514/1.G006602'
+citation: 'Nan Zhang, Shiyu Chen, Zhong Zhang, and Hexi Baoyin. "Two-Stage Dynamic-Assignment Optimization Method for Multispacecraft Debris Removal." Journal of Guidance, Control, and Dynamics 45, no. 9 (2022): 1750-1759.'
+---
+The multi-spacecraft debris removal missions can be considered as a specific variant of the time-dependent multiple traveling salesman problem. It is challenging to determine the debris sequences and corresponding rendezvous epochs. This paper presents a two-stage dynamic assignment framework to deal with this problem. Firstly, generate the mission databases which store the debris sequences that can exist in the same mission. Based on the mission databases, the first stage adopts the genetic algorithm to pre-distribute all given targets to different spacecrafts and Timeline Club Optimization to optimize each single spacecraft mission. The near-optimal solutions can be obtained at stage 1. At stage 2, considering reassigning some debris pieces to other appropriate spacecrafts, a hill-climbing-like algorithm provides a further local optimization on the previous near-optimal solutions. Simulation results show that the proposed framework offers better performance than the previous studies in a typical multi-spacecraft debris removal scenario.
+
+[Download paper here](https://arc.aiaa.org/doi/full/10.2514/1.G006602)
+
+Recommended citation: Nan Zhang, Shiyu Chen, Zhong Zhang, and Hexi Baoyin. "Two-Stage Dynamic-Assignment Optimization Method for Multispacecraft Debris Removal." Journal of Guidance, Control, and Dynamics 45, no. 9 (2022): 1750-1759.
