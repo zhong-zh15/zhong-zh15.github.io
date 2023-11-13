@@ -20,6 +20,6 @@ Second, this paper converts the rendezvous time optimization problem into a mult
  A novel dual dynamic programming algorithm is proposed and combined with dynamic programming to solve for the globally optimal rendezvous epochs efficiently. The global optimality is guaranteed by Bellman's principle of optimality, which is the first time in such problem to our knowledge. 
 The proposed method achieves state-of-the-art performance in several typical fuel-optimal scenarios of active debris removal. This open-sourced method is non-database-dependent and contains only one design stage, which is expected to be adopted in other successive rendezvous missions.
 
-[]()
+[Download paper here](https://arc.aiaa.org/doi/10.2514/1.G007764)
 
 Recommended citation: Zhong Zhang, Nan Zhang, Zherui Chen, Fanghua Jiang, and Junfeng Li. "Global trajectory optimization of multi-spacecraft successive rendezvous using multi-tree search." Journal of Guidance, Control, and Dynamics, 2023. (Accepted)
