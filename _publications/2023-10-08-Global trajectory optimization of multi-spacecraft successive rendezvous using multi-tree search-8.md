@@ -10,7 +10,7 @@ Second, this paper converts the rendezvous time optimization problem into a mult
 The proposed method achieves state-of-the-art performance in several typical fuel-optimal scenarios of active debris removal. This open-sourced method is non-database-dependent and contains only one design stage, which is expected to be adopted in other successive rendezvous missions.'
 date: 2023-10-08
 venue: 'Journal of Guidance, Control, and Dynamics'
-paperurl: ''
+paperurl: 'https://arc.aiaa.org/doi/10.2514/1.G007764'
 citation: 'Zhong Zhang, Nan Zhang, Zherui Chen, Fanghua Jiang, and Junfeng Li. "Global trajectory optimization of multi-spacecraft successive rendezvous using multi-tree search." Journal of Guidance, Control, and Dynamics, 2023. (Accepted)'
 ---
 This paper investigates the global optimization of multi-spacecraft successive rendezvous trajectories, which is divided here into three subproblems: target assignment, sequence optimization, and rendezvous time optimization.
