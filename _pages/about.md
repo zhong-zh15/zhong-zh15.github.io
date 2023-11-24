@@ -19,6 +19,6 @@ Some of the interesting projects I've been a part of include:
 2. Data-driven methods for improved spacecraft trajectory optimization.
 3. Robust and fast neural policy for spacecraft guidance.
 
-You can find my CV here: [Zhong Zhang's Curriculum Vitae](../assets/CV_20231023.pdf).
+You can find my CV here: [Zhong Zhang's Curriculum Vitae](../assets/CV_ZhongZhang_20231124.pdf).
 
 ![](../images/WhenIwasaChild.png)
