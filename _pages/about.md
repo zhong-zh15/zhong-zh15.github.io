@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-You can find my CV here: [Zhong Zhang's Curriculum Vitae](../assets/CV_ZhongZhang_20231124.pdf).
+You can find my CV here: [Zhong Zhang's Curriculum Vitae](../assets/CV_20231201.pdf).
 
 From Tongliao, Inner Mongolia, China, I am Zhang Zhong. As a child, beneath the vast canopy of stars, my curiosity about the universe was ignited. This passion eventually guided me to Tsinghua University, where I now delve into the art of trajectory optimization.
 
